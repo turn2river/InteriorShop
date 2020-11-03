@@ -37,13 +37,12 @@ a {
 }
 
 .contacts-map {
+  padding-top: 70px;
   width: 370px;
   height: 370px;
   opacity: 0.9;
   background-color: #ffffff;
   border: 1px solid #9c9c9c;
-  display: grid;
-  grid-template-rows: 150px 20px 200px;
   place-items: center;
   text-align: center;
 }
@@ -56,6 +55,9 @@ a {
 
 .contacts-map a:active {
   opacity: 1;
+}
+.contacts-map h2 {
+  margin-top: 50px;
 }
 
 .map-PEA {
