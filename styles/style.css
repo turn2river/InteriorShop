@@ -86,7 +86,7 @@ input {
 }
 
 .slider-text {
-  margin-top: 279px;
+  padding-top: 279px;
 }
 
 .slider-trending {
@@ -478,7 +478,7 @@ input {
 }
 
 .slider-text-exclusive {
-  margin-top: 186px;
+  padding-top: 186px;
   padding-left: 30px;
 }
 
